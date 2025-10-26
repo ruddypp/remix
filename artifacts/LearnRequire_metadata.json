@@ -83,7 +83,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/learn/LearnRequire.sol": "LearnRequire"
+			"contracts/11-LearnRequire.sol": "LearnRequire"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -97,7 +97,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/learn/LearnRequire.sol": {
+		"contracts/11-LearnRequire.sol": {
 			"keccak256": "0xd365fa9c8a92b98fcc22f101670b6afe9be31d9373d617203d3beb6c5e6ddf3c",
 			"license": "MIT",
 			"urls": [

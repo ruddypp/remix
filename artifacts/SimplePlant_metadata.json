@@ -109,7 +109,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/learn/SimplePlant.sol": "SimplePlant"
+			"contracts/05-SimplePlant.sol": "SimplePlant"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -123,12 +123,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/learn/SimplePlant.sol": {
-			"keccak256": "0x0b5e28f1342aeb7df65078ed51198f8126c6eb94121cefb7b0bc3658072e35a9",
+		"contracts/05-SimplePlant.sol": {
+			"keccak256": "0x539455b5831f57e9641b950be30cadb6066cb5b474a43f79bf6e20751dd61152",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://db0d3a0b2d7d0269041be3e540942c5561597a754b55313c2fbe3645f70feb95",
-				"dweb:/ipfs/QmRMYZ5JdcNqN8CCmV7WCJcuAhuNd9isr9U7rgbF5fJ95w"
+				"bzz-raw://e3c52f67b5187214148c3ca5b7a234fc199f3891c34f83bda987bc34df0988de",
+				"dweb:/ipfs/QmZ4uhcdGdWsLeNDzBMCUkRU38DvhCcb16aBSmWvzx4PkX"
 			]
 		}
 	},

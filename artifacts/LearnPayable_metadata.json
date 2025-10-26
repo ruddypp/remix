@@ -58,7 +58,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/learn/LearnPayable.sol": "LearnPayable"
+			"contracts/14-LearnPayable.sol": "LearnPayable"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -72,7 +72,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/learn/LearnPayable.sol": {
+		"contracts/14-LearnPayable.sol": {
 			"keccak256": "0x331481994adae8c01d9f615e29f49b67e08b3af369af7e36d84ef3f0af0761ef",
 			"license": "MIT",
 			"urls": [

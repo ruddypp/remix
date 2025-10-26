@@ -70,7 +70,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/learn/LearnSendETH.sol": "LearnSendETH"
+			"contracts/15-LearnSendETH.sol": "LearnSendETH"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -84,7 +84,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/learn/LearnSendETH.sol": {
+		"contracts/15-LearnSendETH.sol": {
 			"keccak256": "0xabe022fec993c59b7c48defe2f3acc5ce6367db7b176508f1cd4b862a68f7593",
 			"license": "MIT",
 			"urls": [

@@ -70,7 +70,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/learn/LearnNumber.sol": "LearnNumber"
+			"contracts/02-LearnNumber.sol": "LearnNumber"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -84,7 +84,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/learn/LearnNumber.sol": {
+		"contracts/02-LearnNumber.sol": {
 			"keccak256": "0x34eb341b3499d90cd8c2673d36a624c16f9f9e0e4aa621cc67f627289d9b3658",
 			"license": "MIT",
 			"urls": [

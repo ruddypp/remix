@@ -70,7 +70,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/learn/LearnBoolean.sol": "LearnBoolean"
+			"contracts/03-LearnBoolean.sol": "LearnBoolean"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -84,7 +84,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/learn/LearnBoolean.sol": {
+		"contracts/03-LearnBoolean.sol": {
 			"keccak256": "0xe63200c11de7e23e59d2d3fc2971feb2e87e369c22f47582f2cf5057e8d37ba8",
 			"license": "MIT",
 			"urls": [

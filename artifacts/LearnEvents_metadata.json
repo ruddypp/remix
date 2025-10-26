@@ -109,7 +109,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/learn/LearnEvents.sol": "LearnEvents"
+			"contracts/13-LearnEvents.sol": "LearnEvents"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -123,7 +123,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/learn/LearnEvents.sol": {
+		"contracts/13-LearnEvents.sol": {
 			"keccak256": "0x0d7901018948372e3cabfd0a65ab5e8d67d79e5590c6543615e932049d376a9f",
 			"license": "MIT",
 			"urls": [

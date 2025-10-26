@@ -63,7 +63,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/learn/LearnAddress.sol": "LearnAddress"
+			"contracts/04-LearnAddress.sol": "LearnAddress"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -77,7 +77,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/learn/LearnAddress.sol": {
+		"contracts/04-LearnAddress.sol": {
 			"keccak256": "0x938afaf038ab90ec8706927c069a4c5e55385723762b29d7e3ce5e5aea30c10f",
 			"license": "MIT",
 			"urls": [

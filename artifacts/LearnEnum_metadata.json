@@ -44,7 +44,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/learn/LearnEnum.sol": "LearnEnum"
+			"contracts/06-LearnEnum.sol": "LearnEnum"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -58,7 +58,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/learn/LearnEnum.sol": {
+		"contracts/06-LearnEnum.sol": {
 			"keccak256": "0x5a6221c1447f7f2f016b2f713776ab086d1bc54b1dcb88e474b663986a105cfe",
 			"license": "MIT",
 			"urls": [

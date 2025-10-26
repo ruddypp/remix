@@ -71,7 +71,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/learn/LearnStruct.sol": "LearnStruct"
+			"contracts/07-LearnStruct.sol": "LearnStruct"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -85,7 +85,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/learn/LearnStruct.sol": {
+		"contracts/07-LearnStruct.sol": {
 			"keccak256": "0x43c92093ebe08e7b969791cacbbc462dfb2112fb306ec4dc98eda46a2a1cbb38",
 			"license": "MIT",
 			"urls": [

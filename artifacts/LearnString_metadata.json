@@ -50,7 +50,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/learn/LearnString.sol": "LearnString"
+			"contracts/01-LearnString.sol": "LearnString"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -64,7 +64,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/learn/LearnString.sol": {
+		"contracts/01-LearnString.sol": {
 			"keccak256": "0x8c7c0740279460c68a5a69a97e7124d5ac052c78d955020e1a996c8665750e17",
 			"license": "MIT",
 			"urls": [

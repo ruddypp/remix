@@ -159,7 +159,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/learn/LearnErrorHandling.sol": "LearnErrorHandling"
+			"contracts/19-LearnErrorHandling.sol": "LearnErrorHandling"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -173,7 +173,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/learn/LearnErrorHandling.sol": {
+		"contracts/19-LearnErrorHandling.sol": {
 			"keccak256": "0x91af8b53da4e2506524a01c320959b0967b4e9d5cf234ab6bf827f2d4c6bdf80",
 			"license": "MIT",
 			"urls": [

@@ -104,7 +104,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/LearnScopes.sol": "LearnScopes"
+			"contracts/16-LearnScopes.sol": "LearnScopes"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -118,7 +118,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/LearnScopes.sol": {
+		"contracts/16-LearnScopes.sol": {
 			"keccak256": "0x5694a7cc8ce1820582b6d85b62a44b00084a39d2598b51e040b73b0c899f1227",
 			"license": "MIT",
 			"urls": [

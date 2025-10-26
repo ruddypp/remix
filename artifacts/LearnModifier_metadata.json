@@ -121,7 +121,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/learn/LearnModifier.sol": "LearnModifier"
+			"contracts/12-LearnModifier.sol": "LearnModifier"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -135,7 +135,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/learn/LearnModifier.sol": {
+		"contracts/12-LearnModifier.sol": {
 			"keccak256": "0x78d9a5d5bd1cebe62bc7b35fb2ffc3a7e48800434855dc339881f67dc5576cd0",
 			"license": "MIT",
 			"urls": [

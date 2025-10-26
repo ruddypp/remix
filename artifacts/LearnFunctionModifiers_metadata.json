@@ -196,7 +196,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/LearnFunctionModifiers.sol": "LearnFunctionModifiers"
+			"contracts/18-LearnFunctionModifiers.sol": "LearnFunctionModifiers"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -210,7 +210,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/LearnFunctionModifiers.sol": {
+		"contracts/18-LearnFunctionModifiers.sol": {
 			"keccak256": "0x7ef343e9693848f1f29c779f17d27064b4ec13d3862a96a15e8ecbfa75c75db3",
 			"license": "MIT",
 			"urls": [
