@@ -84,7 +84,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/learn/LearnVisibility.sol": "LearnVisibility"
+			"contracts/LearnVisibility.sol": "LearnVisibility"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -98,7 +98,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/learn/LearnVisibility.sol": {
+		"contracts/LearnVisibility.sol": {
 			"keccak256": "0xff5b4578ecf268796bbb58b6c9bff942678f7eaee5fc1d599a1ee32f4d961e14",
 			"license": "MIT",
 			"urls": [

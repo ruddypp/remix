@@ -39,7 +39,7 @@
 						"type": "address"
 					},
 					{
-						"indexed": false,
+						"indexed": true,
 						"internalType": "uint256",
 						"name": "reward",
 						"type": "uint256"
@@ -77,7 +77,7 @@
 						"type": "uint256"
 					},
 					{
-						"indexed": false,
+						"indexed": true,
 						"internalType": "uint8",
 						"name": "newWaterLevel",
 						"type": "uint8"
@@ -97,7 +97,7 @@
 					},
 					{
 						"indexed": false,
-						"internalType": "enum LiskGarden.Growthstage",
+						"internalType": "enum LiskGarden.GrowthStage",
 						"name": "newStage",
 						"type": "uint8"
 					}
@@ -171,6 +171,13 @@
 				"type": "function"
 			},
 			{
+				"inputs": [],
+				"name": "balanceOwner",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
 				"inputs": [
 					{
 						"internalType": "uint256",
@@ -212,7 +219,7 @@
 								"type": "address"
 							},
 							{
-								"internalType": "enum LiskGarden.Growthstage",
+								"internalType": "enum LiskGarden.GrowthStage",
 								"name": "stage",
 								"type": "uint8"
 							},
@@ -342,7 +349,7 @@
 						"type": "address"
 					},
 					{
-						"internalType": "enum LiskGarden.Growthstage",
+						"internalType": "enum LiskGarden.GrowthStage",
 						"name": "stage",
 						"type": "uint8"
 					},
@@ -465,11 +472,11 @@
 	},
 	"sources": {
 		"contracts/LiskGarden.sol": {
-			"keccak256": "0xb536b47f729a1ceed611e46be8ecd71016be6910eb39bcd66ba60b405c8f0674",
+			"keccak256": "0x1e4eb48c56586931938b621cdf57ac09f2ac1a368eaf798be30263c0678b8d3e",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://67505381a9eb479c608996ab2069b44bc71b0976e6dc6c7c09edacbbdac6886d",
-				"dweb:/ipfs/QmZUrT3LMqm3YS8xE1BV7FQXj97dE6U2Tm5mhBaYy5QzCc"
+				"bzz-raw://7b2f00e0fd7dee72f81a996c2796267bf61bff1fb09a85b9a9a5fb91dd98ab61",
+				"dweb:/ipfs/QmQeqcj5EFN7pEeP4HQJjN5AQLHBwSFLd1qR8sQKH4HGif"
 			]
 		}
 	},
